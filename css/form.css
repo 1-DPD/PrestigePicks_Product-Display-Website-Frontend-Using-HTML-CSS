@@ -1,0 +1,30 @@
+#n1 {
+   margin: 3px;
+   border-radius: 05px;
+   border: 2px solid #f2f2f2;
+   background: #f2f2f2;
+   height:30px;
+    
+}
+::placeholder {
+    color:  #bfbfbf;
+  opacity: 1;
+}
+h4{
+  font-family:;
+}
+textarea{
+   margin: 5px;
+   border-radius: 05px;
+   border: 2px solid #f2f2f2;
+   background: #f2f2f2;  
+}
+
+#n4{
+   margin: 5px;
+   border: 2px solid #f2f2f2;
+   background: #f2f2f2; 
+   color: #bfbfbf; #bfbfbf;
+  opacity: 1;
+}
+  
